@@ -12,3 +12,7 @@ body {
 .links {
     margin-left: auto;
 }
+
+.header img {
+    height: 60px;
+}
