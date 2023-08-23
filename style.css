@@ -10,10 +10,11 @@ body {
     align-items: center;
     justify-content: space-between;
     width: 100%;
+    
 }
 
-.links {
-
+.links a {
+    margin: 4px;
 }
 
 .header img {
