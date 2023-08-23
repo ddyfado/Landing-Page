@@ -9,7 +9,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 100%
+    padding: 16px 15%;
 }
 
 .links a {
@@ -18,4 +18,9 @@ body {
 
 .header img {
     height: 48px;
+}
+
+.blue {
+    background-color: #1F2937;
+    width: 100vw;
 }
