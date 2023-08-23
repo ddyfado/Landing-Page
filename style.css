@@ -24,7 +24,12 @@ body {
     margin: 16px 15%;
 }
 
+h1 {
+    color: #F9FAF8;
+}
+
 .blue {
     background-color: #1F2937;
     width: 100vw;
+    color: #E5E7EB;
 }
