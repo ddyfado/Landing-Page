@@ -22,6 +22,7 @@ body {
 
 .section-one {
     padding: 32px 15%;
+    display: flex;
 }
 
 h1 {
