@@ -25,6 +25,10 @@ body {
     display: flex;
 }
 
+.section-one img {
+    height: 160px;
+}
+
 h1 {
     color: #F9FAF8;
     font-size: 48px;
