@@ -9,7 +9,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 16px 15%;
+    padding: 16px 15% 0px;
 }
 
 .links a {
@@ -21,15 +21,18 @@ body {
 }
 
 .section-one {
-    margin: 16px 15%;
+    padding: 32px 15%;
 }
 
 h1 {
     color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
 }
 
 .blue {
     background-color: #1F2937;
     width: 100vw;
     color: #E5E7EB;
+    font-size: 18px;
 }
