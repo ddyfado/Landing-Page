@@ -92,6 +92,8 @@ h1 {
     background-color: #E5E7EB;
     width: 100vw;
     padding: 56px;
+    display: flex;
+    justify-content: center;
 }
 
 .section-three .container {
