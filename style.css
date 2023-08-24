@@ -111,8 +111,13 @@ h1 {
     font-weight: bold;
 }
 
+.section-four {
+    padding: 56px;
+}
+
 .section-four .container {
     display: flex;
     background-color: #3882F6;
+    border-radius: 16px;
 }
 
