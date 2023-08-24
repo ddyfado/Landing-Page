@@ -95,3 +95,10 @@ h1 {
 .section-three p {
     padding: 16px 15%;
 }
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+    font-weight: lighter;
+}
