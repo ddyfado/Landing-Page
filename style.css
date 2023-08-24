@@ -113,5 +113,6 @@ h1 {
 
 .section-four .container {
     display: flex;
+    background-color: #3882F6;
 }
 
