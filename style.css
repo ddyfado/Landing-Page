@@ -113,6 +113,8 @@ h1 {
 
 .section-four {
     padding: 56px;
+    display: flex;
+    align-items: center;
 }
 
 .section-four .container {
@@ -130,5 +132,6 @@ h1 {
     border: 1px solid #F9FAF8;
     color: #F9FAF8;
     border-radius: 4px;
+    align-self: center;
 }
 
