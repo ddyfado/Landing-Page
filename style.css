@@ -66,6 +66,7 @@ h1 {
 .boxes {
     display: flex;
     flex-direction: row;
+    gap: 32px;
 }
 
 .box {
@@ -73,4 +74,9 @@ h1 {
     width: 100px;
     border: 2px solid #3882F6;
     border-radius: 8px;
+}
+
+.box-holder {
+    width: 100px;
+    text-align: center;
 }
