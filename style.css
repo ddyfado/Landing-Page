@@ -62,3 +62,8 @@ h1 {
     color: #E5E7EB;
     font-size: 18px;
 }
+
+.boxes {
+    display: flex;
+    flex-direction: row;
+}
