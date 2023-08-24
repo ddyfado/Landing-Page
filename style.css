@@ -141,7 +141,7 @@ h3, .section-four p {
     margin: 0;
 }
 
-.section-four p{
+p, a {
     font-weight: 100;
 }
 
