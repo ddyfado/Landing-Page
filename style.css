@@ -93,7 +93,7 @@ h1 {
     padding: 56px;
 }
 
-.section-three p {
+.section-three p, .thor {
     padding: 16px 20%;
 }
 
@@ -107,7 +107,6 @@ h1 {
 .thor {
     text-align: end;
     margin-top: -68px;
-    margin-right: 16px;
     font-weight: bold;
 }
 
