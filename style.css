@@ -94,7 +94,7 @@ h1 {
 }
 
 .section-three p {
-    padding: 16px 15%;
+    padding: 16px 20%;
 }
 
 .quote {
@@ -107,5 +107,10 @@ h1 {
 .thor {
     text-align: end;
     margin-top: -68px;
+    margin-right: 16px;
     font-weight: bold;
+}
+
+.section-four .container {
+
 }
