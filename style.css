@@ -144,3 +144,10 @@ h3, .section-four p {
 .section-four p{
     font-weight: 100;
 }
+
+.footer {
+    font-size: 12px;
+    font-weight: 100;
+    padding: 16px;
+    text-align: center;
+}
