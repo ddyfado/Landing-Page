@@ -135,3 +135,6 @@ h1 {
     align-self: center;
 }
 
+h3, .section-four p {
+    margin: 0;
+}
