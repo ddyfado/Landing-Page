@@ -90,6 +90,7 @@ h1 {
 .section-three {
     background-color: #E5E7EB;
     width: 100vw;
+    padding: 56px;
 }
 
 .section-three p {
@@ -101,4 +102,9 @@ h1 {
     color: #1F2937;
     font-style: italic;
     font-weight: lighter;
+}
+
+.thor {
+    text-align: end;
+    margin-top: -68px;
 }
