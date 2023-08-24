@@ -111,6 +111,7 @@ h1 {
     font-weight: bold;
 }
 
-.section-four {
+.section-four .container {
     display: flex;
 }
+
