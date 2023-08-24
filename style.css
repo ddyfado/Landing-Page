@@ -29,7 +29,15 @@ body {
 }
 
 .section-one img {
-    height: 177px;
+    height: 180px;
+}
+
+.section-one button {
+    background-color: #3882F6;
+    border: none;
+    color: #F9FAF8;
+    padding: 2px 16px;
+    border-radius: 4px;
 }
 
 .section-one .container {
