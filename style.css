@@ -25,17 +25,27 @@ body {
     display: flex;
     align-items: center;
     gap: 16px;
+    justify-content: space-between;
 }
 
 .section-one img {
     height: 160px;
 }
 
+.section-one .container {
+    max-width: 600px;
+}
+
+
 h1 {
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 900;
-    margin: 0px 8px;
+    margin: 0px;
+}
+
+.section-one p {
+    margin: 0px 0px 4px 0px;
 }
 
 .blue {
