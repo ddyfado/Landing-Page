@@ -94,9 +94,11 @@ h1 {
     padding: 56px;
 }
 
-.section-three p, .thor {
-    padding: 16px 20%;
+.section-three .container {
+    width: 696px;
 }
+
+
 
 .quote {
     font-size: 36px;
