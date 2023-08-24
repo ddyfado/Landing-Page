@@ -91,3 +91,7 @@ h1 {
     background-color: #E5E7EB;
     width: 100vw;
 }
+
+.section-three p {
+    padding: 16px 15%;
+}
